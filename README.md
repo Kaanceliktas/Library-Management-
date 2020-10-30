@@ -1,6 +1,7 @@
 # Library-Management-System
 
 *+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+* 
+
 This project is an C++ program that can manage a library. It can keep book datas, and make their followings.
 
 We recommend to use this program with DEV-CPP v5.11. Other IDE's may not work.
